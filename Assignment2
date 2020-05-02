@@ -154,7 +154,11 @@
     <br><br>
     <h4>GitHub Commits</h4>    
     <img src =  InsightCommits.png>
-
+    
+    
+    <br><br>
+    
+    <p>Overall, We think the Github logs depicts a very honest and accurate reflection of our group’s work on this assignment. As it displays the work of each of the group members, which they have done to the very best of the of their ability and more though the feedback our groups members have given. The Github log of activity also reflects the teamwork that we have demonstrated, as we all have striven to work towards a single vision of our assignment that we have agreed as a group, thus giving us clear understanding of what needs to be done to reach to that vision of our assignment.</p>
 
 
   <br><br>
@@ -633,9 +637,9 @@
         <li style="font-size:20px"><h4>What can be done now?</h4></li>
           <p>The Internet of Things currently is a very stable system, the biggest issue to the Internet of Things is potentially how vulnerable and exposed it is to be hacked. Given that data is stored in a cloud and the ever growing number of devices using the internet, if targeted and hacked into, many important and valuable data will be exposed to the world.  This could be stopped with the creation of future AI that can detect this problems as current AI that are on offer have limits that it cannot get around due to the large amount of data base AI have to go through.</p>
         <li style="font-size:20px"><h4>What is likely to be done soon (say in the next 3 years)?</h4></li>
-          <p></p>
+          <p>The Internet of Things (IoT) will continue to expand and will have more uses in the future. In 2018, a survey was conducted by Statista Research Department which produced an estimate of 22 Billion IoT devices connected around the world. In the future the amount of IoT devices that were predicted by Statista will be 38.6 Billion IoT devices by the end of 2025.  With the current introduction of 5g- fifth generation cellular networks, the transfer speed of data from devices to the internet will increase at a faster rate. IoT in the future will also have an impact on Artificial intelligence. Devices that contain the use of Artificial intelligence are already being used by people today. Currently AI software is able to “learn” simple phrases that require voice recognition to perform a command which are already set in code. In the future artificial intelligence will be able to recognise more commands without the need for its users to repeat the same phrases.</p>
         <li style="font-size:20px"><h4>What technological or other developments make this possible?</h4></li>
-          <p></p>
+          <p>Technological developments that make IoT possible include, the advancement of wireless communications and the development of cloud computing. The advancement of wireless communications allows IoT devices to connect to a platform that enables the devices to collect, process and transfer data between each other efficiently. The development in cloud computing enables Iot to connect to the cloud platform. Cloud platforms can be used by businesses and consumers to access information without the need to manage data. IoT would not be possible without the implementation of device hardware that enables the connectivity to the cloud platform. Sensors are used to detect change in an environment which can be used for data collection in IoT devices. The development of sensors allows IoT devices to detect changes such as inputs, then transferring that information to the cloud platform to be processed. CPUs- central processing units, allow devices to process data at high frequencies allowing the connectivity between devices and the platform to work efficiently.</p>
         </ol>
 
     <br><br>
@@ -664,14 +668,17 @@
         <li style="font-size:20px"><h4>What can be done now?</h4></li>
           <p>What can be done now to cybersecurity is to make it more difficult to infiltrate from cyber attackers although it is easier said than done as there are many cybersecurity threats. For example, malware attacks, password decryption, hacking. However, there are ways to improve cybersecurity such as the use of artificial intelligence, as with the improvement in technology cyber criminals are using, AI can detect these suspicious movements and identify them. Thus, protecting and securing the important information as AI can do more than one person. Like AI, the improvement automation can reduce the workload for the cybersecurity companies as it can also help block and detect attacks.</p>
         <li style="font-size:20px"><h4>What is likely to be done soon (say in the next 3 years)?</h4></li>
-          <p></p>
+          <p>The practise of cybersecurity is impacted by cyberattacks. With security measures taken to protect information, cyberattackers will always find a way to exploit that method. In the future of cybersecurity, developing new technologies will be more sophisticated. 5g- fifth generation cellular networks will be used by organisations and consumers which means that more IoT devices will be able to access information. Healthcare and bank services will continue to use cloud computing with cybersecurity infrastructures to store information. Since health and financial information is valuable, cyberattackers will continue to develop methods to steal this information. IoT manufacturers such as Apple and Samsung, will continue to produce new security measures to protect access to users’ devices. They will continue to implement new biometric scanners that other organisations can also use as a security measure.</p>
         <li style="font-size:20px"><h4>What technological or other developments make this possible?</h4></li>
-          <p></p>
+          <p>The practise of cybersecurity is made possible with the development of information technology developments. Cloud computing has many security flaws with the possibility of data extraction with ransomware. Since cloud computing is used by both businesses and consumers, cybersecurity is a high priority to keep stored information protected. IoT is the connection of multiple devices to the internet. The connectivity between devices and the internet is protected by the use of routers with cybersecurity infrastructures to prevent a gateway for information to be leaked. The development of antivirus softwares allows users to scan their devices to identify any threats that could steal information. Application developers have also implemented the use of biometrics as a verification for users to access information.</p>
       </ol>
     <br><br>
 
       <h3>What is the likely impact?</h3>
-        <p></p>
+        <p>As there will be an increase in global connectivity, cybersecurity will become more critical as it covers everything that relates to protecting our sensitive data, personally identifiable information (PII), protected health information (PHI), personal information, intellectual property, data, and governmental and industry information systems from theft and harm. Due to this increase, there will potentially be more risks to store sensitive data and personal information, impacting things such as businesses.</p>
+        <p>Things that will have to change to increase security and reduce the risk of cybercrime, adapting to cybersecurity in businesses, are to educate everyone apart of an organization about the risks of social engineering and common scams like phishing and typosquatting, investing in tools that limit information loss and monitoring any third and fourth-party vendor risks, and using technology to reduce costs like vendor assessment questionnaires to act as an overall cybersecurity risk assessment strategy.</p>
+        <p>Anyone can be affected by cybercrime whether you are an individual, small business, or large multinational. As long as a person relies on computer systems every day, they can be affected by it. Because of this, governments around the world are now conscious about cybercrimes, investing their time towards and money towards cybersecurity. </p>
+        <p>As devices are becoming more connected and are becoming more incorporated into our daily lives, there are more opportunities for data breaches. Due to this problem, cybersecurity jobs are greatly sought after as cyber-attacks are only becoming more common and more harmful. According to the Bureau of Labor Statistics, a job in Information security is projected at a rate of growth of 37% from 2012-2022. As the growth in data from businesses is becoming more valuable, the need for cybersecurity personnel to analyze and manage incidents also increases. It is predicted that by 2021, there will be 3.5 million jobs in cybersecurity that are unfilled, supporting the idea that cybersecurity will in-fact create more jobs.</p>
 
     <br><br>
 
@@ -710,12 +717,105 @@
   <p>There are many data security problems in 2020 and also for the upcoming years. There are currently a lot of data security problems in 2020 due to COVID-19, given that all the business calls are gone through the internet with applications like Microsoft Teams or Zoom, these can be hacked into and recorded. A lot of documents are also being gone through the internet more due to the increase of work from home instead of at the office. Some problems include Vulnerability to fake data generation, Potential presence of untrusted mappers, Troubles of cryptographic protection, Possibility of sensitive information mining, Struggles of granular access control, Data provenance difficulties, High speed of NoSQL databases’ evolution and lack of security focus, Absent security audits. For the vulnerability to fake data generation “cybercriminals can find a way to enter a [company’s] system and create fake results” (Big data security: issues, challenges, concerns, 2020), these fake results can show problems that aren’t actually occuring or show no problems when there are a few, which later causes serious damage to the company. Another problem that can occur is the presence of untrusted mappers, these mappers can create an issue with producing “inadequate lists of keys/value pairs” (Big data security: issues, challenges, concerns, 2020) and other outsiders can access sensitive information. Granular access control can be very good at keeping outsiders from seeing sensitive information, but this can affect a system's performance and maintenance. Data provenance difficulties can create problems like “unauthorized change in metadata which leads to wrong data sets” (Big data security: issues, challenges, concerns, 2020) and creates difficulty to find information. Another problem with Data provenance can be the “untraceable data sources” (Big data security: issues, challenges, concerns, 2020) this can create the inability to find the root of security breaches and fake data generation.</p>
   <br><br><br>
   <h1>Feedback</h1>
+    <h2>Gerald</h2>
+      <h3>Nicholas</h3>
+      <p>Did put a lot of effort in his work and spend time in doing his work. Always getting the work done before the deadline. Quality in his work is flawless, always joining and participating in sharing ideas to the meeting.</p>
+      <h3>John</h3>
+      <p>Participate and attend all of the meeting, did all the work before the deadline, quality of his work is mostly flawless. He knows what to do, and understands all the key points of what we discussed together and executed it perfectly.</p>
+      <h3>Patrick</h3>
+      <p>Always participating and attending the meeting, punctual too. Due to his other close deadline assignments that missed only one deadline, the quality of his work is mostly excellent, and he works overtime to get things done.</p>
+      <h3>Tony</h3>
+      <p>Missed a few points about the assignment, but overall good. Gave a proper reason for not attending the meeting but he has the initiative to catch up on what he missed. His work quality is overall good. At the start, he struggled on doing the assignment, but reached out to the team which he then later catched up and understood the key points</p>
+      <h3>Kelvin</h3>
+      <p>Missed a couple few meetings, but catched up on everything at the last leg. His work quality is overall good. He is a quick learner, might miss on some of the assignment key points but he got the point once the team explained it to him.</p>
+<br><br>
+
+    <h2>Nicholas</h2>
+      <h3>Gerald</h3>
+        <p>Gerald was great being the leader. He was organised, complied everything and did his work in a timely fashion. He also understood the assignment well, understanding what needed to be completed and when. He was punctual with meetings.</p>
+      <h3>John</h3>
+        <p>John was great with getting on top of the things he needed to do. He could’ve been a little bit more informed with the assignment, but overall knew what was going on and understood his part of the assignment he needed to complete. He was punctual with meetings.</p>
+      <h3>Patrick</h3>
+        <p>Patrick was very well informed, knew what he was doing and all the tasks he needed to complete with a good standard. He was organised overall, but did have minor struggles, but quickly fixed them and not burdening the group in any way. He was punctual with meetings.</p>
+      <h3>Tony</h3>
+        <p>Tony was great with everything, getting on top of his work and being informed with the assignment. He did struggle a little bit with getting work done at the start, but after that he didn’t create any other disturbances. He was punctual with meetings.</p>
+      <h3>Kelvin</h3>
+        <p>Kelvin was great with his work. He could be a little more organised with the work he needed to complete and be more informed with the tasks and the overall assignment, but he didn’t do anything major that set anyone back. He was punctual with meetings but did miss a couple.</p>
+<br><br>
+
+    <h2>John</h2>
+      <h3>Nicholas</h3>
+        <p>Nicholas was very organized with his work as he was able to complete all his tasks in a short amount of time. Due to this, he had enough time to also take on more work, contributing more to the group assignment and helping the group finish the project more quickly.</p>
+      <h3>Gerald</h3>
+        <p>Gerald had performed very well while in this group. He acted as a great leader for the group, making sure that all tasks were done correctly and on time. He also organized most of the work which made him a very valuable member of the team.</p>
+      <h3>Patrick</h3>
+        <p>Patrick had performed very well as he was able to complete all his work before specified times. Because of this, he had volunteered to take on more work such as organizing the interview and the constructing agendas. This had helped the group complete the project more quickly.</p>
+      <h3>Tony</h3>
+        <p>Tony was well organized with his work and had completed all his tasks on time. He also contributed and volunteered to do more tasks which had helped the team complete the project much more quickly.</p>
+      <h3>Kelvin</h3>
+        <p>Kelvin was able to complete his work very quickly despite having started a bit after the group. Due to this he was able to take on more work and had volunteered to do more, helping the group complete the project more quickly.</p>
+<br><br>
+
+    <h2>Patrick</h2>
+      <h3>Nicholas</h3>
+        <p>Always attentive in group meetings with his work done prior, a great understanding of the group progression and what required to be done allows him to be up to date with work and complete his sections to high quality.</p>
+      <h3>John</h3>
+        <p>Attentive in meetings, another contributor to the main ideas and progression to the group, willingness to provide an objective focused side to discussions to help progress the discussions and grant a clear objective.</p>
+      <h3>Gerald</h3>
+        <p>A great leader, delegations of roles came naturally, and he gave precise instructions. Good formation and organisation of meetings attempting to account for all our group member schedules. Always willing to help when I was uncertain with how some HTML should be written.</p>
+      <h3>Tony</h3>
+        <p>Active participation in group discussions, strong work ethic and always gets his parts of the assessments done, when stuck he takes initiative and asks for help and is willing to take assistance. In meetings ensures that everyone understands what needs to be done.</p>
+      <h3>Kelvin</h3>
+        <p>Although he has timing schedules that aren’t in sync with the group, he always tries to keep up with what he has missed out on and complete his parts on time. Able to pick up quickly on what needs to be done and work on them in a timely manner.</p>
+<br><br>
+
+    <h2>Tony</h2>
+      <h3>Nicholas</h3>
+        <p>Nicholas is a hard worker, which is demonstrated through his work which you can see he puts a lot of effort and time into, making it the best possible. He is always there for meetings and participates.</p>
+      <h3>John</h3>
+        <p>John is always a participant, that can either be always participating in group meetings and always finishing the work before the deadline to a high standard.  John has a clear idea on what to do, and understands all the key points in our assignments</p>
+      <h3>Patrick</h3>
+        <p>Patrick helps support the group, either through the work he has done for IT work or through the participation in group meetings that gives the group much needed ideas. He is mostly there for group meetings and the quality of his work is always excellent.</p>
+      <h3>Gerald</h3>
+        <p>Gerald is a natural leader, as he is the person to see the status of how we are going in the group and always knows what needs to be done, thus has a clear vision on what the final assignment looks like. Quality of his work is excellent,he is always there to schedule meetings and give out tips/feedback.</p>
+      <h3>Kelvin</h3>
+        <p>Although he missed some of the group meetings, kelvin always does what he needs to do before it is too late. He is very helpful and nice in explaining certain things I did not understand. The quality of his work is always to the best of his abilities .</p>
+<br><br>
+
+    <h2>Kelvin</h2>
+      <h3>Nicholas</h3>
+        <p>Nicholas is present in all meetings and contributes to the group. His work is always completed before the deadline. Quality of his work is excellent; he understands all key points in the assignment.</p>
+      <h3>John</h3>
+        <p>John attends all meetings and contributes to the group. He works efficiently completing work on time and the quality of his work is excellent. He understands all key points in the assignment.</p>
+      <h3>Patrick</h3>
+        <p>Patrick attends all meetings and contributes to the team. He constantly provides ideas that can be used in the assignment and his contribution with the interview is excellent and he always completes work on time with excellent quality.</p>
+      <h3>Tony</h3>
+        <p>Tony attends all meetings and contributes to the team. He is organised with his work and asks for help whenever necessary. The quality of his work is excellent and finishes his work before the deadline.</p>
+      <h3>Gerald</h3>
+        <p>Gerald is a great leader. His ability to organise meetings, split duties, and tasks, keeps everyone on track and the ability to push us forward progressively is outstanding. His work with HTML is excellent and his work is amazing. He is always available to provide feedback on work and gives tips on what needs to be accomplished.</p>
+<br><br>
   
   
   
   <br><br><br>
   <h1>Group Reflection</h1>
-
+    <h2>Gerald</h2>
+      <p>Genuinely, this group has really done an eminent job. Everyone is there when we need to collaborate, did all the instructed tasks and executed flawlessly. Every member of the group is taking the assignment seriously and willing to work overtime in order to get the maximum marks we can get. We have gone through our ups and downs but we managed everything and tackled this assignment really well. This group has got to be one of my personal favourites, as mostly, everyone is punctual and ready to attend any sudden meetings when there is an issue, and also, this group is really well-organized as everyone is ready to cooperate with one another. Most of the people understood the division of writing task but not everyone, that is the only main takeaway of the group that can be improved in the future. One thing that surprised me was the meetings, which I thought that was going to be hard to organise a time together to meet due to this COVID-19 pandemic, but, surprisingly, everyone showed up, during the emergency meetings too! A lesson learned about being groups is that i cannot expect everyone could do what i always wanted for it to look like and tend to rush deadlines, in the future, i need to expand my tolerance level and make myself more patient. In my opinion, GitHub insights did not reflect well as most of my members are doing it on google docs and I was the one commiting codes as I am the one in charge of the formatting and compiling things together.</p>
+    <br><br>
+    <h2>Nicholas</h2>
+      <p>The group overall worked well. We were behind at the start of the assignment but managed everything well. We were able to work well on google docs and communicated well on teams arranging meetings and assigning ad completing tasks for a due date. Everyone worked well, but Kelvin had a little bit of issues during the assignment, but he managed to complete everything in the end. Everyone in the group was punctual to meetings too which helped drastically with the time we had to work with. We could’ve improved our usage of GitHub and knowledge overall for the assignment. I was surprised at the time management our team had. We could improve on the time management and when we started the assignment instead of leaving it to the last two weeks to complete it, making it more stressful then it needed to be I learnt that groups online are very stressful, not being able to communicate with them face-to-face.</p>
+    <br><br>
+    <h2>Patrick</h2>
+      <p>The things that went well as a group was the willingness to participate equally when the distribution of parts was set up, the approach to how we handled the assessment tasks was very similar to the way I normally conduct my own assessments making it easy to pick up. One improvement that could be made was organisational things such as all members being on time during meetings but even then, it was only by 10 or so minutes. The surprising thing in this group was there were no personality clashes, and everyone was fine to work with each other and comfortably discuss ideas within the group. I have learnt in group projects when everyone is comfortable to communicate with each other it goes a lot more smoothly.</p>
+    <br><br>
+    <h2>John</h2>
+      <p>As a group, I believe that we had performed very well. This was due to how the group managed to finish the tasks set within a short amount of time and how we, as a group, were able to communicate in a mature and organized way. Things that could have been improved are the responsibilities put on each member. Each Member had been assigned different tasks, and because of this, sometimes there would be a misunderstanding with what they had to do. However, in the end, this was only a small issue. One thing that was very surprising was how everyone in the group got along with each other so easily. Because of this, we were able to communicate in a very organized mature manner. One thing I have learned about groups is that you have others to rely on when it comes to completing a task and how important communication is when a part of a group. We as a team used the Github for the formatting of the HTML to brainstorm, each member has contributed to it. However, google docs were used more frequently as it was easier to look through our information and edit and any existing mistakes.</p>
+    <br><br>
+    <h2>Tony</h2>
+      <p>Overall, I think our group worked well, we all did what we were told and agreed to do. The things I thought that went well was what I mentioned before, we equally divided our work and individually we completed our tasks we were assigned to before the deadline we would set out as a group. The answers that each group member gave were all very detailed and well researched. Another thing I thought we did well was that we were all very helpful with each other, if we did not understand what we were doing, we would message each other to clear up the confusion or if there was a mistake found, we will message or tell each other in our group meetings. As for what could be improved, I thought that sometimes we were quite quiet, so sometimes that could lead to miscommunication or unclear instruction but that could be easily fixed when someone would ask again what was needed to do. Another thing that could be improved was that I could be more talkative, as I felt like I was more of a follower than a leader, so that could be fixed in the next group assignment. One thing that was surprising was how well we worked as most of us do not know each other, so I found it surprising that most of us worked well with each other. As for one thing that I have learned about groups , I think it would be that it's hard to find time to have us all be at one time as we have our own individual lives and tasks we have to do, therefore sometimes it’s hard to have everyone at one time.</p>
+    <br><br>
+    <h2>Kelvin</h2>
+      <p></p>
 
 
 
@@ -772,6 +872,18 @@
     <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
     <td><p><a href="https://web.microsoftstream.com/video/3f3e4582-7856-4240-a76c-90eb383ee3f4">Recording</a></p></td>
     <td><p><a href="https://docs.google.com/document/d/1mKEqTo6e-jiFMFQzK4680psS8EA0KDEb-L7v3Ch7wMQ/edit?usp=sharing">Actions1</a>&nbsp;<a href="https://docs.google.com/document/d/1coRAmR0Au52bod6Vo9dgYnwZFnuGoar_2mcx_jyWAD0/edit?usp=sharing">Actions2</a</p></td>
+  </tr>
+
+  <tr>
+    <td>02/05/2020</td>
+    <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
+    <td><p><a href="https://web.microsoftstream.com/video/99f932f5-d556-40ba-a77f-f45b28e405cb">Recording</a></p></td>
+    <td><p><a href="https://docs.google.com/document/d/1coRAmR0Au52bod6Vo9dgYnwZFnuGoar_2mcx_jyWAD0/edit?usp=sharing">Actions</a</p></td>
+  </tr>
+
+  <tr>
+    <td colspan=2>Interview Recording</td>
+    <td colspan=2><p><a href="https://web.microsoftstream.com/video/b1fba1d2-2bb4-4a57-9a44-96f25d2b73f4">Recording</a></p></td>
   </tr>
   
 </table>
