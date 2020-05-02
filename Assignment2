@@ -106,7 +106,7 @@
       <h3>Kelvin Huynh</h3>
       <img src = KELRECENTPIC.png>
           <H4>Personal Information</H4>
-              <p>Hello everyone! My name is Kelvin Huynh, my student number is s3854638 and my work e-mail is <a href="mailto:s3854638@student.rmit.edu.au">s3854638@student.rmit.edu.au</a>. My natinality is a mix of Chinese and Vietnamese. I speak a couple of languages that includes English, Chinese and Teochew. An interesting fact about me is that I have worked in Target for about 3 years now as a casual. </p>
+              <p>Hi everyone! My name is Kelvin Huynh, my student number is s3854638 and my work e-mail is <a href="mailto:s3854638@student.rmit.edu.au">s3854638@student.rmit.edu.au</a>. My natinality is a mix of Chinese and Vietnamese. I speak a couple of languages that includes English, Chinese and Teochew. An interesting fact about me is that I have worked in Target for about 3 years now as a casual. </p>
                 <p>I have always been fascinated with technology. How electronics functions, how programs are built and how technology is involved every day. My interest in IT began when I started playing video games. I noticed that the games were running slower, which made me curious to find a solution to work out why these programs were slowing down. I chose to come to RMIT as I have heard that this university has a known reputation for great success in this course. During my studies I hope to learn more about programming and how technology functions.</p>
   <br><br>
           <H4>Team Profile</H4>
@@ -148,7 +148,15 @@
   <br><br>
 
     <h3>Comments on how well the audit trail on the Git repository reflects your group’s work</h3>
-        
+    <h4>GitHub Overview</h4>    
+    <img src =  InsightOverview.png>
+
+    <br><br>
+    <h4>GitHub Commits</h4>    
+    <img src =  InsightCommits.png>
+
+
+
   <br><br>
 
     <h3>Bullet pointed list of web resources that you used to compile your report </h3>
@@ -218,26 +226,26 @@
           <br><br>
           <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
             <ol>
-              <li>Rank #1 SQL</li>
-              <li>Rank #4 Microsoft Windows</li>
-              <li>Rank #5 Project Management</li>
-              <li>Rank #6 SAP</li>
+              <li>Rank #1 - SQL</li>
+              <li>Rank #4 - Microsoft Windows</li>
+              <li>Rank #5 - Project Management</li>
+              <li>Rank #6 - SAP</li>
             </ol>
           <br><br>
           <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
              <ol>
-              <li>Rank #1 Communication Skill</li>
-              <li>Rank #2 Problem Solving</li>
-              <li>Rank #5 TeamWork</li>
-              <li>Rank #17 Analytical</li>
-              <li>Rank#7 Planning</li>
+              <li>Rank #1 - Communication Skill</li>
+              <li>Rank #2 - Problem Solving</li>
+              <li>Rank #5 - TeamWork</li>
+              <li>Rank #7 - Planning</li>
+              <li>Rank #17 - Analytical</li>
             </ol>
           <br><br>
           <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
             <ol>
-              <li>Rank #2 Javascript</li>
-              <li>Rank #3 Java</li>
-              <li>Rank #12 C# </li>
+              <li>Rank #2 - Javascript</li>
+              <li>Rank #3 - Java</li>
+              <li>Rank #12 - C# </li>
             </ol>
           <br><br>
           <li>What are the three highest ranked general skills which are not in your required skill set?</li>
@@ -321,48 +329,48 @@
           <br><br>
           <li>How do the IT-specific skills in your required skill set rank in terms of demand from employers.</li>
             <ol>
-              <li>Rank #2 Java</li>
-              <li>Rank #3 Javascript</li>
-              <li>Rank #4 Python</li>
-              <li>Rank #9 C#</li>
+              <li>Rank #2 - Java</li>
+              <li>Rank #3 - Javascript</li>
+              <li>Rank #4 - Python</li>
+              <li>Rank #9 - C#</li>
               <li>Mean and Ruby weren’t in the top software and programming skills required</li>
               </ol>
               <p><b>2018 Skills</b></p>
               <ol>
-              <li>Rank #2 Java</li>
-              <li>Rank #3 Javascript</li>
-              <li>Rank #12 C#</li>
-              <li>Rank #22 Python</li>
+              <li>Rank #2 - Java</li>
+              <li>Rank #3 - Javascript</li>
+              <li>Rank #12 - C#</li>
+              <li>Rank #22 - Python</li>
               <li>Mean and Ruby weren’t in the top software and programming skills required</li>
             </ol>
           <br><br>
           <li>How do the general skills in your required skill set rank in terms of demand from employers?</li>
              <ol>
-              <li>Rank #1 Communication skills</li>
-              <li>Rank #2 Problem solving</li>
-              <li>Rank #10 Verbal communication</li>
+              <li>Rank #1 - Communication skills</li>
+              <li>Rank #2 - Problem solving</li>
+              <li>Rank #10 - Verbal communication</li>
             </ol>
             <p><b>2018 Skills</b></p>
             <ol>
-              <li>Rank #1 Communication skills</li>
-              <li>Rank #2 Problem solving</li>
-              <li>Rank #5 Teamwork/Collaboration</li>
-              <li>Rank #6 Troubleshooting</li>
-              <li>Rank #17 Analytical Skills</li>
+              <li>Rank #1 - Communication skills</li>
+              <li>Rank #2 - Problem solving</li>
+              <li>Rank #5 - Teamwork/Collaboration</li>
+              <li>Rank #6 - Troubleshooting</li>
+              <li>Rank #17 - Analytical Skills</li>
             </ol>
           <br><br>
           <li>What are the three highest ranked IT-specific skills which are not in your required skill set?</li>
             <ol>
-              <li>Rank #1 SQL</li>
-              <li>Rank #4 Microsoft Windows</li>
-              <li>Rank #7 Business Management</li>
+              <li>Rank #1 - SQL</li>
+              <li>Rank #4 - Microsoft Windows</li>
+              <li>Rank #7 - Business Management</li>
             </ol>
           <br><br>
           <li>What are the three highest ranked general skills which are not in your required skill set?</li>
             <ol>
-              <li>Rank #3 Organisational Skills</li>
-              <li>Rank #4 Writing</li>          
-              <li>Rank #15 Presentational Skills</li>
+              <li>Rank #3 - Organisational Skills</li>
+              <li>Rank #4 - Writing</li>          
+              <li>Rank #15 - Presentational Skills</li>
             </ol>
           <br><br>
           <li>Having looked at your updated Burning Glass data, has your opinion of your ideal job changed? Why or why not?</li>
@@ -539,6 +547,19 @@
         <h3>What aspect of their position is most challenging? </h3>
           <p>The most challenging aspect of their job is when they have system wide issues that prevent FX traders from using their applications. Every minute that their application is not running has financial impact on the business </p>
 <br><br>
+
+        <h3>You’ve just been assigned to a project with new technology. How would you get started?</h3>
+          <p></p>
+<br><br>
+
+        <h3>During your past studies (university), How well and how effective do you think the theories taught in school applied to your job you are currently working</h3>
+          <p></p>
+<br><br>
+
+        <h3>Do you believe there will be more jobs relating to your profession in the future? Why?</h3>
+          <p></p>
+<br><br>
+
     
   
   
@@ -620,7 +641,7 @@
     <br><br>
 
       <h3>What is the likely impact?</h3>
-          <p>Due to the large growth of modern day devices integrating with internet connectivity, it’ll force organizations to redesign their data and analytical capabilities, take up new data management technologies and platforms, and create new governance policies and practices to take measures for all this data. Ted Friedman, a vice president and distinguished analyst at Gartner (IT service management company), had explained at a data & analytics summit how through 2019, ‘one third of IoT solutions will be abandoned before deployment due to lack of data management and analytics capabilities adapted for IoT’.</p>
+          <p>“As per the research, there will be approximately 20.4 billion IoT devices connected to the internet by the year 2020, out of which, 90% of automobiles will be connected to the web.” Due to the large growth of  modern day devices integrating with internet connectivity, it’ll force organizations to redesign their data and analytical capabilities, take up new data management technologies and platforms, and create new governance policies and practices to take measures for all this data. Ted Friedman, a vice president and distinguished analyst at Gartner (IT service management company), had explained at a data & analytics summit how through 2019, ‘one third of IoT solutions will be abandoned before deployment due to lack of data management and analytics capabilities adapted for IoT’.</p>
           <p>Things that are likely to change are due to IoT are smarter homes, and wearable technology. Despite how these changes provide new products and possibilities for users, IoT will also allow for changes within the way we do business. Things such as: Inventory Management where smart devices will eventually be able to automatically track inventory, Consumer Demands and how these consumers will get used to using ‘smart devices’ which allows others to develop and meet these new demands and offers, and Remote Work as IoT becomes more integrated, more remote working opportunities will become available for tasks which had required people to be on-site to complete.</p>
           <p>People who will most likely be affected by IoT are people in hospitality, retail, manufacturing and farmers. For hospitality, hotels are already introducing a facial recognition system where they are able to recognise customers when they enter and leave. With retail, rather than visiting stores, people might soon be able to try on different outfits without leaving their homes using augmented reality or virtual reality. For manufacturers, it will help them track assets in their factories which increase their analytics functionality through installing predictive maintenance systems. Lastly, for farmers, ‘smart agriculture’ is already being implemented through the use of agriculture drones and sensors, later, potentially monitoring every plant and animal individually, assigning each with personal feeding or medical regime.</p>
           <p>As IoT is connecting millions of devices to the internet, it allows for more jobs to be created as there would be a need for more IT professionals. It is said how “by the year 2020, 250,000 IoT applications would have been developed” which would mean that there would be more opportunities for developers. Ultimately, IoT will create more jobs than it will take away.</p>
@@ -676,7 +697,17 @@
   <p>Telkom+ is just a simple mini computer that uses Raspberry Pi as the "MiddleMan" for the wall power socket to the electrical appliance to make it automated. This product of Telkom+ will then be connected to the home wifi to obtain the static IP address of the Raspberry Pi and so the wifi signal can control the Raspberry Pi to kill the power or reconnect the power to the electrical appliance. </p>
     <p>Next, the phone application is created using the python programming language, that will be compatible with all phone OS, whether it is iOS or Android. First, when you tap on the application, a username and password is requested or simply the user can turn the FaceID that iOS has or the user fingerprint. After the credentials are verified by the app, the home screen will appear. The home screen consists of all personalised electrical appliances, where the user can put which electrical appliance in which side of the phone screen, for example, I want to put the home heater on top of the screen and the garage door on the bottom. After the user selects which appliance he / she wants to control, the screen will then go to the next page with it showing whether it is either open / closed or on / off. </p>
     <p>After this, the user can then see the state of the appliance and can do further actions such as locking the front door, watching the live view of the CCTV or turning off the stove.</p>
-  
+  <br><br>
+  <h2>Biggest problems in the global economy in 2020</h2>
+  <p>Currently the biggest problem in the global economy in 2020 is the numerous natural disasters such as the bushfires in Australia at the beginning of 2020, and COVID-19. A natural disaster like the bush fires found in Australia is bad for the economy as it destroys assets for a business or country and leaves many people unemployed. For a country like Australia whose large amount of exports come from its natural resources it is very damaging to its economy and countries who rely on Australia resources.Another problem would be the the country being affected by the natural disaster would need to use its money from taxpayers to focus on fixing the natural disaster which will be very expensive. The government would need to focus on short term solutions like hiring people to help out with the natural disaster, help those who are vulnerable caused by the disaster and more. The government would as need to focus on long term solutions such as any infrastructure that was damaged e.g. roads, building, etc. and more. COVID-19 is currently the biggest problem for the global economy due to the amount of people staying at home and not going outside. It has caused people to not spend money on goods and services, which in turn has caused unemployment due to less money being in the economy. Due to people being unemployed, they are not spending money, not paying tax and are on government money like centrelink, so government expenditure currently is at an all time high. All these factors are from COVID-19 which is currently the biggest problem in the global economy. Our project idea could be a solution to help fix these problems as a Home automation can help those working at home, making it more convenient. Simple yet important tasks can be done through Telkom+ like being reminded about checking emails or knowing the latest information about COVID-19. If there are signs that a natural disaster is about to happen Telkom+ can quickly signal the user know. If the user is currently unemployed, Telkom+ can let them know about job opportunities or as the user is going out to look for jobs, they can be less stressed as the home automation can look after the house.</p>
+
+  <br><br>
+  <h2>Biggest problems in IT and Computing in 2020</h2>
+  <p>Some of the biggest problems which IT and computing are currently facing in 2020 are targeted ransomware, and attacks on artificial intelligence-based solutions. Because of this, organizations will need to match up to data access requests, increase cybersecurity awareness, deal with IT skill shortages, and justify security investments. In 2020, ransomware attacks will become more common and sophisticated. This issue can be detrimental as Organizations that store personally identifiable data - such as healthcare, finance and government sectors, will be mainly targeted by this. From this, attackers can obtain important information that they can use to demand payment of any type from the owner. As organizations continue to use more solutions based on artificial intelligence (AI) and machine learning (ML), there becomes a greater opportunity for people to experiment with ways to misuse or mislead those solutions. A way our project idea acts as a solution to these problems is that to access any information inside of the app, a user will need to access the application physically using a faceID or their finger print. This will act as a way to prevent any data breaches.</p>
+
+  <br><br>
+  <h2>Biggest problems in Data Security in 2020</h2>
+  <p>There are many data security problems in 2020 and also for the upcoming years. There are currently a lot of data security problems in 2020 due to COVID-19, given that all the business calls are gone through the internet with applications like Microsoft Teams or Zoom, these can be hacked into and recorded. A lot of documents are also being gone through the internet more due to the increase of work from home instead of at the office. Some problems include Vulnerability to fake data generation, Potential presence of untrusted mappers, Troubles of cryptographic protection, Possibility of sensitive information mining, Struggles of granular access control, Data provenance difficulties, High speed of NoSQL databases’ evolution and lack of security focus, Absent security audits. For the vulnerability to fake data generation “cybercriminals can find a way to enter a [company’s] system and create fake results” (Big data security: issues, challenges, concerns, 2020), these fake results can show problems that aren’t actually occuring or show no problems when there are a few, which later causes serious damage to the company. Another problem that can occur is the presence of untrusted mappers, these mappers can create an issue with producing “inadequate lists of keys/value pairs” (Big data security: issues, challenges, concerns, 2020) and other outsiders can access sensitive information. Granular access control can be very good at keeping outsiders from seeing sensitive information, but this can affect a system's performance and maintenance. Data provenance difficulties can create problems like “unauthorized change in metadata which leads to wrong data sets” (Big data security: issues, challenges, concerns, 2020) and creates difficulty to find information. Another problem with Data provenance can be the “untraceable data sources” (Big data security: issues, challenges, concerns, 2020) this can create the inability to find the root of security breaches and fake data generation.</p>
   <br><br><br>
   <h1>Feedback</h1>
   
@@ -692,151 +723,58 @@
   <br><br><br>
   <h1>Group Dynamics</h1>
  <br><br>
-      <table style="width:100%">
-        <tr>
-          <th>Date</th>
-          <th>Agenda</th> 
-          <th>Recording</th>
-          <th>Actions</th>
-        </tr>
-        
-        <tr>
-          <td>22/04/2020</td>
-          <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
-          <td><p><a href="https://web.microsoftstream.com/video/528dde05-4160-4830-83c5-a34d78d22c12">Recording</a></p></td>
-          <td>Actions</td>
-        </tr>
-        
-        <tr>
-          <td>23/04/2020</td>
-          <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
-          <td><p><a href="https://web.microsoftstream.com/video/07420f32-d2f3-4e77-bb42-f8c91e04713e">Recording</a></p></td>
-          <td>Actions</td>
-        </tr>
-        
-        <tr>
-          <td>24/04/2020</td>
-         <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
-          <td><p><a href="https://web.microsoftstream.com/video/8c98d9dc-27be-4dae-93d5-847ca2627539">Recording</a></p></td>
-          <td>Actions</td>
-        </tr>
-        
-        <tr>
-          <td>25/04/2020</td>
-          <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
-          <td><p><a href="https://web.microsoftstream.com/video/79c3f8a5-8583-4a22-ae32-8f560533fd21">Recording</a></p></td>
-          <td>Actions</td>
-        </tr>
-        
-        <tr>
-          <td>28/04/2020</td>
-          <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
-          <td><p><a href="https://web.microsoftstream.com/video/c3fd99ec-b373-4157-b065-851206966b1f">Recording</a></p></td>
-          <td>Actions</td>
-        </tr>
-        
-        
-      </table>
-  </table>
+ <table style="width:100%">
+  <tr>
+    <th>Date</th>
+    <th>Agenda</th> 
+    <th>Recording</th>
+    <th>Actions</th>
+  </tr>
+  
+  <tr>
+    <td>22/04/2020</td>
+    <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
+    <td><p><a href="https://web.microsoftstream.com/video/528dde05-4160-4830-83c5-a34d78d22c12">Recording</a></p></td>
+    <td><p><a href="https://docs.google.com/document/d/1My8xlMZZzRkin3qU1PJzOvqpydlnD97y7ZbfxK283I8/edit?usp=sharing">Actions</a></p></td>
+  </tr>
+  
+  <tr>
+    <td>23/04/2020</td>
+    <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
+    <td><p><a href="https://web.microsoftstream.com/video/07420f32-d2f3-4e77-bb42-f8c91e04713e">Recording</a></p></td>
+    <td><p><a href="https://docs.google.com/document/d/1aEPgz-UyYdPo_KXsdnSL7aBImBu7mBbSDKxlH2TrwZ4/edit?usp=sharing">Actions</a></p></td>
+  </tr>
+  
+  <tr>
+    <td>24/04/2020</td>
+   <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
+    <td><p><a href="https://web.microsoftstream.com/video/8c98d9dc-27be-4dae-93d5-847ca2627539">Recording</a></p></td>
+    <td><p><a href="https://docs.google.com/document/d/1N91pnQDXa9_VNxcOAXxLCq6P42lgfte5LVsjFMQANF8/edit?usp=sharing">Actions</a></p></td>
+  </tr>
+  
+  <tr>
+    <td>25/04/2020</td>
+    <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
+    <td><p><a href="https://web.microsoftstream.com/video/79c3f8a5-8583-4a22-ae32-8f560533fd21">Recording</a></p></td>
+    <td><p><a href="https://docs.google.com/document/d/1N91pnQDXa9_VNxcOAXxLCq6P42lgfte5LVsjFMQANF8/edit?usp=sharing">Actions1</a>&nbsp;<a href="https://docs.google.com/document/d/1weO7zxNvg8l9SDjGkhBmOA6BUrMB0TEfKcfQXg-Bs1Q/edit?usp=sharing">Actions2</a></p></td>
+  </tr>
+  
+  <tr>
+    <td>28/04/2020</td>
+    <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
+    <td><p><a href="https://web.microsoftstream.com/video/c3fd99ec-b373-4157-b065-851206966b1f">Recording</a></p></td>
+    <td><p><a href="https://docs.google.com/document/d/1IwCWnJ-tPBEMSvAhvlmDAuqWidp7l1WdBiYYHfflSiw/edit?usp=sharing">Actions</a></p></td>
+  </tr>
+  
+
+  <tr>
+    <td>01/05/2020</td>
+    <td><p><a href="https://docs.google.com/document/d/1AL6ber--HQ4kjwuaZIOd8MqlnsQIRKbh6OBz3nzKw8E/edit?usp=sharing">Agenda</a></p></td>
+    <td><p><a href="https://web.microsoftstream.com/video/3f3e4582-7856-4240-a76c-90eb383ee3f4">Recording</a></p></td>
+    <td><p><a href="https://docs.google.com/document/d/1mKEqTo6e-jiFMFQzK4680psS8EA0KDEb-L7v3Ch7wMQ/edit?usp=sharing">Actions1</a>&nbsp;<a href="https://docs.google.com/document/d/1coRAmR0Au52bod6Vo9dgYnwZFnuGoar_2mcx_jyWAD0/edit?usp=sharing">Actions2</a</p></td>
+  </tr>
+  
+</table>
 <br><br><br><br>
 </Body>
-  </HTML>
-References
-<ol>
-<li>Softwaretestinghelp.com. 2020. 15 Top Cloud Computing Service Provider Companies. [online] Available at: <https://www.softwaretestinghelp.com/cloud-computing-service-providers/> [Accessed 25 April 2020].</li>
-
-<li>Carey, S., 2020. AWS Vs Azure Vs Google Cloud: What's The Best Cloud Platform For Enterprise?. [online] Computerworld. Available at: <https://www.computerworld.com/article/3429365/aws-vs-azure-vs-google-whats-the-best-cloud-platform-for-enterprise.html> [Accessed 25 April 2020].</li>
-
-<li>Guru99.com. 2020. Top 21 Cloud Computing Service Provider Companies In 2020. [online] Available at: <https://www.guru99.com/cloud-computing-service-provider.html> [Accessed 25 April 2020].</li>
-
-<li>Alton, L., 2020. 4 Ways AI Is Improving Cloud Computing – Connected IT Blog. [online] Connected. Available at: <https://community.connection.com/4-ways-ai-is-improving-cloud-computing/> [Accessed 26 April 2020].</li>
-
-<li>Softwaretestinghelp.com. 2020. 15 Top Cloud Computing Service Provider Companies. [online] Available at: <https://www.softwaretestinghelp.com/cloud-computing-service-providers/> [Accessed 25 April 2020].</li>
-
-<li>D'Silva, F., 2020. 6 Tips For Improving Cloud Computing Security. [online] Ntiva.com. Available at: <https://www.ntiva.com/blog/6-tips-for-improving-cloud-computing-security> [Accessed 26 April 2020].</li>
-
-<li>IMS Proschool offers courses in Data Science, Digital Marketing, IFRS, ACCA, CFA, Business Analytics, Financial Modeling, CIMA, CFP Courses. 2020. TOP 10 DATA <li>ANALYTICS TOOLS. [online] Available at: <https://www.proschoolonline.com/blog/top-10-data-analytics-tools> [Accessed 26 April 2020].</li>
-
-<li>Financesonline.com. 2020. 20 Best Data Analytics Software For 2020 - Financesonline.Com. [online] Available at: <https://financesonline.com/data-analytics/> [Accessed 26 April 2020].</li>
-
-<li>Reviews.financesonline.com. 2020. Sisense Reviews: Pricing & Software Features Of Sisense.Com | Financesonline. [online] Available at: <https://reviews.financesonline.com/p/sisense/> [Accessed 26 April 2020].</li>
-
-<li>Digitalistmag.com. 2020. How Statistics And Data Analytics Can Improve Your Business. [online] Available at: <https://www.digitalistmag.com/future-of-work/2018/11/15/how-statistics-data-analytics-can-improve-your-business-06193600> [Accessed 26 April 2020].</li>
-
-<li>Smart Insights. 2020. The Top 10 Strategies To Turn Data Into Actionable Analytics | Smart Insights. [online] Available at: <https://www.smartinsights.com/goal-setting-evaluation/web-analytics-strategy/top-10-strategies-turn-data-actionable-analytics/> [Accessed 26 April 2020].</li>
-
-<li>Ranger, S., 2018. What Is Cloud Computing? Everything You Need To Know About The Cloud, Explained | Zdnet. [online] ZDNet. Available at: <https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-from-public-and-private-cloud-to-software-as-a/> [Accessed 27 April 2020].</li>
-
-<li>OECD (2014-08-19), “Cloud Computing: The Concept, Impacts and the Role of Government Policy”, OECD Digital Economy Papers, No. 240, OECD Publishing, Paris http://dx.doi.org/10.1787/5jxzf4lcc7f5-en</li>
-
-<li>thehackernews.com.(March 04, 2020).”Top 10 Most Innovative Cybersecurity Companies After RSA 2020”[online] Available at:
-<https://thehackernews.com/2020/03/most-innovative-cybersecurity.html>
-[Accessed 26 April 2020]</li>
-
-<li>entrepreneur.com(August 18, 2017 ).”25 Innovative IoT Companies and products You Need to Know”[online] Available at:
-<https://www.entrepreneur.com/article/298943l>
-[Accessed 26 April 2020]</li>
-
-<li>teksystems.com.(JAN. 26, 2016).”State of the Internet of Things: Wide Impact Anticipated Yet Initiatives Stall” [online] Available at:
-<https://www.teksystems.com/en/insights/press/2016/state-of-the-internet-of -things>[Accessed 27 April 2020]</li>
-
-<li>weforum.org.(11 Jan 2018).”6 ways the Internet of Things is improving our lives” [online] Available at:
-<https://www.weforum.org/agenda/2018/01/6-ways-the-internet-of-things-is-improving-our-lives/>[Accessed 27 April 2020]</li>
-
-
-<li>Techwave. 2016. Defining Data Analytics And How They Impact Everyday Life. [online] Available at: <https://techwave.net/blog/defining-data-analytics-and-how-they-impact-everyday-life/> [Accessed 28 April 2020].</li>
-
-<li>Sandlin, K., 2015. Data Analysis Careers: 5 High-Paying Options & How To Get Started. [online] General Assembly Blog. Available at: <https://generalassemb.ly/blog/careers-that-use-data-analysis/> [Accessed 28 April 2020].</li>
-
-<li>CIOReview. 2018. Impact Of Data Analytics In Business: A Modern Approach. [online] Available at: <https://www.cioreview.com/news/impact-of-data-analytics-in-business-a-modern-approach-
-nid-27565-cid-156.html> [Accessed 28 April 2020].</li>
-
-<li>How IoT Development Affects the Future of Web Development? [online]
-Available at:
-<https://towardsdatascience.com/how-iot-development-affects-the-future-of-web-developments-c762a999501a> [Accessed 27 April 2020].</li>
-
-<li>How IoT Impacts Data and Analytics. [online]
-Available at:
-<https://www.gartner.com/smarterwithgartner/how-iot-impacts-data-and-analytics/> [Accessed 27 April 2020].</li>
-
-<li>What is The Internet Of Things (IoT) And How Will It Change Our World? [online]
-Available at:
-<https://www.bernardmarr.com/default.asp?contentID=964> [Accessed 28 April 2020].</li>
-
-<li>7 industries that will be radically changed by the IoT. [online]
-Available at:
-<https://www.information-age.com/7-industries-will-radically-changed-iot-123467258/> 
-[Accessed 28 April].</li>
-
-<li>Is IoT Creating or Destroying More Jobs? [online]
-Available at:
-<https://www.iotevolutionworld.com/smart-factories/articles/433239-iot-creating-destroying-more-jobs.htm> [Accessed 28 April].</li>
-
-<li>The Future of Cyber Security Jobs. [online]
-Available at:
-<https://www.monster.com/career-advice/article/future-of-cybersecurity-jobs> [Accessed 30 April].</li>
-
-<li>Why is Cybersecurity Important? [online]
-Available at:
-<https://www.upguard.com/blog/cybersecurity-important> [Accessed 30 April].</li>
-
-<li>What is Cybersecurity? Everything You Need to Know. [online]
-Available at:
-<https://searchsecurity.techtarget.com/definition/cybersecurity> [Accessed 30 April].</li>
-
-<li>Top Seven IT Challenges For 2020. [online]
-Available:
-<https://facilityexecutive.com/2020/01/top-seven-it-challenges-for-2020/> [Accessed 1 May].</li> 
-
-<li>Scnsoft.com. 2020. Big Data Security: Issues, Challenges, Concerns. [online] Available at: <https://www.scnsoft.com/blog/big-data-security-challenges> [Accessed 1 May 2020].</li>
-
-<li>RDA. 2020. Big Data Security - Issues, Challenges, Tech & Concerns. [online] Available at: <https://www.rd-alliance.org/group/big-data-ig-data-security-and-trust-wg/wiki/big-data-security-issues-challenges-tech-concerns> [Accessed 1 May 2020].</li>
-
-Data Statistic/Analytics
-Nicholas
-What is the state of the art of this new technology? 
-Currently the state of the art technology for Data Statistic/Analytics is Sisense, like cloud computing it also has many competitors, such as, Looker and Zoho Analytics. Sisense allows users to put all their “information from different sources into a unified repository, produces visual and robust analysis reports with ease and ability to easily share data, information and reports” (Sisense Reviews: Pricing & Software Features of sisense.com | FinancesOnline, 2020). It’s system allows it to “maximise 64-bit computers, multi-core CPUs and parallelization capabilities to create a very rapid and efficient system” (Sisense Reviews: Pricing & Software Features of sisense.com | FinancesOnline, 2020). The app has an In-Chip engine that allows users to ask any question with an immediate response. Sisense also has a Single Stack architecture that performs data integration to visualisation with a single BI solution with instant deployment. All the data is analyzed accurately and in real time to avoid data errors when analyzing big or small amounts of data, they do this by compiling all this data in a single place. Sisense also has the ability to be integrated with other applications using Sisense’s REST API.
-What can be done now?
-Sisense and many other state of the art data statistic/analytics software/applications have pretty much done everything it can for Data Statistic/Analytics. Improvements can’t seem to come from the software of these applications, but the way users implement these to their business or lives. Business’ can use Data statistics/analytics to understand the averages and probability, this can help for “profit/loss statements, but also to figure out how to use different business operations effectively” (How Statistics And Data Analytics Can Improve Your Business, 2020). These data statistics/analytics applications can be implemented to  a business’ performance metrics, showing data of employees if they’re “pulling their weight” and check the business’ performance as a whole, showing how efficiently it's working. This also works well with the hiring process, which in turn increases “market share” (How Statistics And Data Analytics Can Improve Your Business, 2020).
-In your daily life, how will this affect you?
-Data Statistics/Analytics doesn’t affect us much currently, when in university not needing any of the statistics for the workload we are given. Once in the workforce it will be needed to be implemented to give employees a way to give statistics/analytics to a higher position or if we are running a business we would need these statistics/analytics to be able to see the progress of the business.
+</HTML>
